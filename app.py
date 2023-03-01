@@ -1,5 +1,5 @@
 import streamlit as st
 import numpy as np
-import matplotlib.pyploy as
+import matplotlib.pyplot as
 
 st.title("Hello")
